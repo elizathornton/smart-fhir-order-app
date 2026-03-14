@@ -9,10 +9,12 @@ FHIR.oauth2.ready()
 
     document.getElementById("output").innerHTML = `
       <h3>Launch succeeded</h3>
+      <h3>Version 1</h3>
       <p><b>Name:</b> ${name}</p>
       <p><b>DOB:</b> ${patient.birthDate || ""}</p>
       <p><b>Gender:</b> ${patient.gender || ""}</p>
       <p><b>Patient ID:</b> ${patient.id || ""}</p>
+      <p><b>Patient Identifier number:</b> ${patient.identifier.value || ""}</p>
     `;
   })
   .catch(function (error) {

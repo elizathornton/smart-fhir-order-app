@@ -1,0 +1,22 @@
+Colon Cancer Screening,,,,,,,,,,,,,,,,,,,,,,
+CDCR#,Last Name,Age,SOMS Gender Identity,SOMS Race,Clinical Risk Level,MH LOC,DPP,DDP,Cell,Bed,Care Team,Excluded from Screening,History of Positive,FIT Test Result,FIT Test Date,Other Screening Type,Other Screening Completed Date,Order Name,Order Due Date,Screened within Timeframes,Screening Due Date,Screening Refusal Date
+ZZZ235,Potter,66,Male,White,Low,GP,NCF,,23,8,Care Team 1,,,Negative,11/2/2025,Colonoscopy,2/3/2018,,,Yes,3/16/2026,
+ZZZ863,Weasley,62,Male,Hispanic/Latino,Low,GP,NCF,DLT,4,5,Care Team 1,,,Negative,1/2/2025,,,,,No,1/2/2026,
+ZZZ247,Malfoy,70,Male,White,Low,GP,NCF,DLT,13,3,Care Team 4,,,Negative,6/16/2022,,,FIT-Fecal Globin-11290,6/3/2026,No,6/17/2024,8/3/2024
+ZZZ327,Dumbledore,47,Male,Other,Medium,GP,NCF,,11,8,Care Team 1,,,Negative,7/11/2025,,,FIT-Fecal Globin-11290,6/22/2026,Yes,7/12/2026,
+ZZZ922,Snape,66,Male,Asian,Low,GP,NCF,,11,8,Care Team 2,,,,,Colonoscopy,4/17/2024,,,Yes,4/18/2034,
+ZZZ206,Hagrid,48,Male,Black,Low,CCCMS,NCF,,7,6,Care Team 3,,,,,,,,,No,3/23/2024,2/17/2024
+ZZZ612,Longbottom,49,Male,Asian,Medium,GP,NCF,,21,1,Care Team 1,,,Negative,10/10/2025,,,FIT-Fecal Globin-11290,4/23/2026,Yes,10/11/2025,
+ZZZ673,Lupin,70,Male,Black,Low,CCCMS,NCF,,8,2,Care Team 4,,Yes,Positive,9/8/2024,,,,,No,9/9/2025,11/14/2024
+ZZZ942,Black,64,Male,Asian,Medium,CCCMS,NCF,,24,2,Care Team 3,,,Negative,8/18/2024,,,,,No,8/19/2025,
+ZZZ685,Diggory,50,Male,Native American,Low,GP,NCF,,3,8,Care Team 3,,,Negative,6/25/2025,,,FIT-Fecal Globin-11290,6/26/2026,Yes,6/26/2026,
+ZZZ344,Crouch,62,Male,White,Medium,GP,NCF,,8,6,Care Team 1,,,Negative,2/1/2026,,,,,Yes,2/21/2026,
+ZZZ994,Riddle,58,Male,Pacific Islander,Low,GP,NCF,,12,5,Care Team 2,,,,,,,FIT-Fecal Globin-11290,3/26/2026,No,5/1/2014,
+ZZZ147,Ollivander,71,Male,Hispanic/Latino,Low,GP,NCF,,12,3,Care Team 1,,,Negative,11/20/2024,,,FIT-Fecal Globin-11290,3/16/2026,No,11/21/2025,10/16/2025
+ZZZ834,Wood,62,Male,Native American,Low,GP,NCF,DLT,7,2,Care Team 2,,,Negative,5/25/2025,,,FIT-Fecal Globin-11290,5/3/2026,Yes,5/26/2026,
+ZZZ271,Finnigan,48,Male,White,High,GP,NCF,,10,3,Care Team 2,,,Negative,6/3/2025,,,FIT-Fecal Globin-11290,4/20/2026,Yes,6/4/2026,
+ZZZ276,Thomas,67,Male,Black,High,CCCMS,NCF,,17,7,Care Team 2,,,Negative,6/22/2025,,,FIT-Fecal Globin-11290,7/2/2026,Yes,6/23/2026,
+ZZZ548,Creevey,45,Male,Hispanic/Latino,High,GP,NCF,DLT,20,3,Care Team 4,,,,,,,FIT-Fecal Globin-11290,4/2/2026,,4/9/2026,
+ZZZ808,Fudge,59,Male,White,Low,GP,NCF,,9,8,Care Team 1,,,Negative,3/23/2026,,,FIT-Fecal Globin-11290,3/10/2026,Yes,3/24/2026,
+ZZZ720,Shacklebolt,71,Male,Hispanic/Latino,High,GP,NCF,,2,5,Care Team 3,,,Negative,6/4/2019,,,FIT-Fecal Globin-11290,3/27/2026,No,6/5/2020,1/17/2022
+ZZZ901,Lovegood,53,Male,White,Low,GP,NCF,,5,3,Care Team 3,,,Negative,6/22/2025,,,FIT-Fecal Globin-11290,6/23/2026,Yes,6/23/2026,8/9/2020
