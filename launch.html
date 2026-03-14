@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SMART Launch</title>
+  <script src="https://cdn.jsdelivr.net/npm/fhirclient/build/fhir-client.js"></script>
+</head>
+
+<body>
+
+<script>
+FHIR.oauth2.authorize({
+  clientId: "2fa84e5c-343a-481e-ad65-c2a1fb5a1768",
+  scope: "launch openid fhirUser patient/*.read",
+  redirectUri: "index.html"
+});
+</script>
+
+</body>
+</html>
