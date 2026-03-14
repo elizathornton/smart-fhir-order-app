@@ -19,15 +19,21 @@ FHIR.oauth2.ready()
             .join("<br>")
         : "(no identifiers)";
 
+    const mrnIdentifier = 
+      patient.identifier.find(id => id.system === "http://hospital.smarthealthit.org")
+
+    const mrn = mrnIdentifier ? mrnIdentifier.value : "(no MRN)"
+
+
     document.getElementById("output").innerHTML = `
       <h3>Launch succeeded</h3>
-      <h3>Version 2</h3>
+      <h3>Version 3</h3>
       <p><b>Name:</b> ${name}</p>
       <p><b>DOB:</b> ${patient.birthDate || ""}</p>
       <p><b>Gender:</b> ${patient.gender || ""}</p>
       <p><b>Patient ID:</b> ${patient.id || ""}</p>
-      <p><b>First Identifier:</b> ${identifierValue}</p>
-      <p><b>All Identifiers:</b><br>${allIdentifiers}</p>
+      <p><b>CDCR</b> ${mrn}</p>
+
     `;
   })
   .catch(function (error) {
